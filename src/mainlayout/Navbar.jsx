@@ -14,9 +14,9 @@ const Navbar = () => {
             <div>
               <Link to="/" className="flex items-center py-4 px-2">
                 <img 
-                  src='./logo.jpg' 
+                  src='./logo.png' 
                   alt="KCHomes Travels Logo" 
-                  className="h-24 w-auto" // Adjust height as needed
+                  className="h-18 w-auto" // Adjust height as needed
                 />
               </Link>
             </div>
